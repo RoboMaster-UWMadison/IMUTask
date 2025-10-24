@@ -1,0 +1,11 @@
+imu_fusion\user_lib.o: ..\algrithm\user_lib.c
+imu_fusion\user_lib.o: ..\algrithm\user_lib.h
+imu_fusion\user_lib.o: ..\application\struct_typedef.h
+imu_fusion\user_lib.o: ..\algrithm\arm_math.h
+imu_fusion\user_lib.o: ../Drivers/CMSIS/Include/core_cm4.h
+imu_fusion\user_lib.o: D:\Program\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+imu_fusion\user_lib.o: ../Drivers/CMSIS/Include/cmsis_version.h
+imu_fusion\user_lib.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+imu_fusion\user_lib.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+imu_fusion\user_lib.o: D:\Program\Keil\ARM\ARMCC\Bin\..\include\string.h
+imu_fusion\user_lib.o: D:\Program\Keil\ARM\ARMCC\Bin\..\include\math.h

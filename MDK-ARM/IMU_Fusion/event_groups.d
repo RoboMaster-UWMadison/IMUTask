@@ -1,0 +1,15 @@
+imu_fusion\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+imu_fusion\event_groups.o: D:\Program\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+imu_fusion\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+imu_fusion\event_groups.o: D:\Program\Keil\ARM\ARMCC\Bin\..\include\stddef.h
+imu_fusion\event_groups.o: D:\Program\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+imu_fusion\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+imu_fusion\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+imu_fusion\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+imu_fusion\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+imu_fusion\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+imu_fusion\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+imu_fusion\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+imu_fusion\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+imu_fusion\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+imu_fusion\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
